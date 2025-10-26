@@ -34,6 +34,8 @@ int main(){
 
 
         char pelotonMayorEfectividad[MAX];
+
+        // inicializa como mayorEfectividad con el numero mas bajo existente
         float mayorEfectividad = -999;
         
         while(casos > 0){
