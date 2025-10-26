@@ -1,0 +1,20 @@
+=== REPORTE DE INTELIGENCIA ALIADA ===
+Fecha: Julio de 1944 - Cuartel General Aliado
+Analista: Brigido Noguera
+
+Escuadron : Halifax
+Dimension Del mapa: 2x6
+Noches Operadas: 2
+Efectividad media: 50.00
+Noche mas Intensa: 2
+
+Escuadron : Lancaster
+Dimension Del mapa: 5x5
+Noches Operadas: 3
+Efectividad media: 40.00
+Noche mas Intensa: 1
+
+*** ESCUADRON MAS EFECTIVO ***
+Halifax (Efectividad Media: 50.00)
+Orden del Comando Supremo: Condecorar al comandante de Halifax.
+Fin del reporte.
