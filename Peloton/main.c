@@ -2,6 +2,8 @@
 #include<string.h>
 #define MAX 50
 
+/// Hola xd
+
 typedef struct{
     char nombre[MAX];
     int noches;
